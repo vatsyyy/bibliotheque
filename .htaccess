@@ -1,0 +1,6 @@
+Options -Indexes
+
+<Files "database.php">
+    Order Deny,Allow
+    Deny from all
+</Files>
